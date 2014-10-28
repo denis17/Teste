@@ -1,0 +1,37 @@
+Git - sistema de controle de versão, registra mudanças feitas em um arquivo
+
+
+comandos
+*CD		mudar de pasta
+
+*LS		mostra conteudo da pasta
+
+*PWD		em que pasta estou
+
+*MLDIR		projeto	cria pasta projeto
+
+*RM X		apaga arqueivo x
+
+*RM -R Y		apaga pasta y
+
+*CD TAB TAB	mosta opções no caso, pasta possiveis
+
+*git init	serve para criar a uma pasta de seu interesse	
+
+*ls -a		server para mostar as pastas ocultas no git que normalmente não e visualizado no windows
+
+*git add	tab tab		o arquivo ainda esta untracked ou seja ainda nao foi reconhecido pelo git, digitando este comando voce adiciona o arquivo ao git para que seja reconhecido
+
+*git status	para verificar se o arquivo é untracked ou se ja foi reconhecido pelo git ( vermelho = untracked verde = se ja foi reconhecido )
+
+*git config --global user.name "nome"
+
+*git config --global user.email "email"
+
+esses comandos servem para se adicionar nome e email no adm do projeto
+
+*git config user.name ou user.email para saber se realmente foi alterada ou dado um nome
+
+*git add . ja faz um commit de todos
+
+*git commit -m		vizualiza todas as
