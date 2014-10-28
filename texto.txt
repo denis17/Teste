@@ -34,4 +34,6 @@ esses comandos servem para se adicionar nome e email no adm do projeto
 
 *git add . ja faz um commit de todos
 
-*git commit -m		vizualiza todas as
+*git commit -m e ( mensagem de commit ) = ( acrescenta o titulo )
+
+t
